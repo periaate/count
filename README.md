@@ -10,4 +10,4 @@
 `ls | count arg1 (ls)`
 
 ## License
-This program is distributed under the [EUPL 1.2](./LICENSE) license.
+This project is licensed under [EUPL 1.2.](./LICENSE)
