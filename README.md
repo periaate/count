@@ -8,6 +8,3 @@
 `ls | count arg1`\
 `ls | count (ls)`\
 `ls | count arg1 (ls)`
-
-## License
-This project is licensed under [EUPL 1.2.](./LICENSE)
